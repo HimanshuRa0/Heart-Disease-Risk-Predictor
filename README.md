@@ -28,7 +28,3 @@ This **Heart Disease Risk Predictor** is a machine learning web application buil
 
 
 
-
-git clone https://github.com/your-username/heart-disease-predictor.git
-cd heart-disease-predictor
-pip install -r requirements.txt
